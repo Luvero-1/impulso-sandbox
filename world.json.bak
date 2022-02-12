@@ -1,0 +1,23 @@
+{
+  "name": "impulso",
+  "title": "Impulso 1ºed",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "",
+  "coreVersion": "9.249",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.12.2"
+}

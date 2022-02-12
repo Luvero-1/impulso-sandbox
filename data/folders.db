@@ -1,0 +1,21 @@
+{"_id":"02szTQ1gOnAZkoVX","name":"3 3","type":"Item","parent":"fJTq0onW0hsHot4o","sorting":"a","sort":-100000,"color":null,"flags":{}}
+{"_id":"2LfUd9uD0soQTpFq","name":"2 6","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":-400000,"color":null,"flags":{}}
+{"_id":"6UtbKWs4YWlERBM3","name":"4 2","type":"Item","parent":"EoP8p7hZLKstUoaA","sorting":"a","sort":0,"color":null,"flags":{}}
+{"_id":"BQZ2b8V7FufgXLrO","name":"3 2","type":"Item","parent":"fJTq0onW0hsHot4o","sorting":"a","sort":0,"color":null,"flags":{}}
+{"_id":"CyZuAMAymZV3TChk","name":"2 4","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":-200000,"color":null,"flags":{}}
+{"name":"4","type":"Item","parent":"O7HyIQQLMREosOtu","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EoP8p7hZLKstUoaA"}
+{"_id":"JS4L8cJMyjJ4epmH","name":"Plantilla [NO TOCAR]","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"KQOgCC5qahA8pYbE","name":"2 2","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":0,"color":null,"flags":{}}
+{"_id":"KoeISxPYd008rCTT","name":"4 3","type":"Item","parent":"EoP8p7hZLKstUoaA","sorting":"a","sort":-100000,"color":null,"flags":{}}
+{"name":"4 - Propiedades","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"O7HyIQQLMREosOtu"}
+{"_id":"P1bvx9Hdi67n7sGP","name":"2","type":"Item","parent":"O7HyIQQLMREosOtu","sorting":"a","sort":1500000,"color":null,"flags":{}}
+{"_id":"aAAaDluoiuNboV6W","name":"2 1","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"3","type":"Item","parent":"O7HyIQQLMREosOtu","sorting":"a","sort":0,"color":null,"flags":{},"_id":"fJTq0onW0hsHot4o"}
+{"_id":"jS7uIT8Qnr0f7kXq","name":"2 3","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":-100000,"color":null,"flags":{}}
+{"_id":"ldUzzGU6jWN2LdCc","name":"2 5","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":-300000,"color":null,"flags":{}}
+{"name":"1 - Pestañas","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"niVkZ1jwntopebIF"}
+{"_id":"o3dnj7WeY8oSrnhC","name":"4 1","type":"Item","parent":"EoP8p7hZLKstUoaA","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"vJXX37sf8yVQxRxa","name":"3 1","type":"Item","parent":"fJTq0onW0hsHot4o","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"vjd1nJBBWsHRDffD","name":"1","type":"Item","parent":"O7HyIQQLMREosOtu","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"2 - Paneles/Multipaneles","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"xdB6GYpCO1PTtwao"}
+{"_id":"z1RwTvSesetSeO4a","name":"3 4","type":"Item","parent":"fJTq0onW0hsHot4o","sorting":"a","sort":-200000,"color":null,"flags":{}}
