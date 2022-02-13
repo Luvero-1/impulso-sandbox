@@ -25,8 +25,9 @@
   "manifest": "https://raw.githubusercontent.com/Luvero-1/impulso-sandbox/main/world.json",
   "download": "https://codeload.github.com/Luvero-1/impulso-sandbox/zip/main",
   "protected": false,
-  "background": "",
+  "background": "worlds/impulso-sandbox/Portada.jpg",
   "coreVersion": "9.249",
+  "nextSession": null,
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "0.12.2"
