@@ -1,10 +1,19 @@
 {
-  "name": "impulso",
-  "title": "Impulso 1ºed",
+  "name": "impulso-sandbox",
+  "title": "Impulso 1ºed para Sandbox",
   "description": "",
-  "authors": [],
+  "author": "Luvero",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745"
+    }
+  ],
+  "url": "https://github.com/Luvero-1/impulso-sandbox",
   "flags": {},
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "minimumCoreVersion": "0.9.0",
+  "compatibleCoreVersion": "0.9.249",
   "scripts": [],
   "esmodules": [],
   "styles": [],
@@ -13,10 +22,11 @@
   "system": "sandbox",
   "dependencies": [],
   "socket": false,
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/impulso-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/impulso-sandbox/zip/main",
   "protected": false,
   "background": "",
   "coreVersion": "9.249",
-  "nextSession": null,
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "0.12.2"
