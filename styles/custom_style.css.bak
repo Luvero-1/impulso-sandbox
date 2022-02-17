@@ -3,7 +3,7 @@
 /* Por último, utilice el nombre en font-family en el resto de la página de estilo */
 
 @font-face {
-  font-family: American Captain, American Captain;
+  font-family: American Captain;
   src:url(fonts/American Captain.otf);
 }
 
@@ -12,6 +12,52 @@
 /* ------ !!!! ------- */
 /* NO QUITES EL ; PUNTO Y COMA AL FINAL DE CADA LINEA!!! */
 /* ------ !!!! ------- */
+
+
+/* ------ Pruebas ------- */
+.sandbox.sheet .profile-img {
+    max-width: 150px;
+    /* max-height: 90px; */
+    width: 110px;
+    height: auto;
+    margin-right: 3px;
+    margin-bottom: 5px;
+    border-style: none;
+    filter: sepia(1);
+    box-shadow: 2px 3px 5px #000000a6;
+    border: 3px solid transparent;
+    border-image: url(img/border_photo.png) round;
+}
+.sandbox.sheet .sheet-body .tab.active {
+    animation-name: contenido;
+    animation-duration:1s;
+}
+.sandbox.sheet .sheet-body .tab{
+}
+.sandbox.sheet .atabs {
+    display: flex;
+    width: 500px;
+    flex: 0 0 40px;
+    flex-direction: row;
+    border-top: 1px solid #AAA;
+    border-bottom: 2px solid black;
+    position: absolute;
+    transform: rotate(90deg);
+    top: 279px;
+    right: -257px;
+    /* left: 10px; */
+    border: none;
+}
+.sandbox.sheet .tabs .item {
+    font-family: American Captain;
+    background-image: url(img/tab.png);
+    background-repeat: no-repeat;
+    padding: 7px;
+    margin: 0px;
+    filter: brightness(0.7);
+}
+
+/* ------ Pruebas ------- */
 
 /* Modificador de texto en chat */
 .roll-result, .roll-conditional {
@@ -41,7 +87,7 @@
 .sandbox.sheet .sheet-body .tab {
     height:100%;
     padding: 0px 5px;
-    font-family: American Captain, American Captain;
+    font-family: American Captain;
     font-size: 100%;
     color: #561010;
     
@@ -58,26 +104,26 @@
 
 /* Control del texto general en Foundry en general */
 body {
-  font-family: American Captain, American Captain-Regular; /* ¡¡¡No quites los dos puntos del final!!! */
+  font-family: American Captain; /* ¡¡¡No quites los dos puntos del final!!! */
   font-size: 14px; /* ¡cambia sólo el número! */
 }
 
 /* Pestañas en las hojas! */
 .sandbox.sheet .tabs .item {
-  font-family: American Captain, American Captain-Regular;
+  font-family: American Captain;
   font-weight: bold; /* Probar bold - bolder - normal - lighter */
 }
 
 /* Control de la fuente y el color de las cabeceras de los paneles */
 .sandbox.sheet .panelheader {
-  font-family: American Captain, sans-serif;
+  font-family: American Captain;
   font-size: 14px; /* ¡cambia sólo el número! */
   background-color: #7b6e51; /* Color de fondo de la cabecera del panel */
 }
 
 /* Campos de color de fondo del texto de entrada de la hoja de caracteres */
 .sandbox.sheet [class^="flexblock-"] input {
-  font-family: American Captain, sans-serif;
+  font-family: American Captain;
   font-size: 12px; 
   background-color: #c3b9a2;
 }
@@ -85,7 +131,7 @@ body {
 /* Texto de entrada de la hoja de caracteres en las tablas (artículos) */
 /* Puedes eliminar este párrafo si quieres que sea igual que el texto de entrada anterior */
 .sandbox.sheet [class^="flexblock-"] td input {
-  font-family: American Captain, sans-serif;
+  font-family: American Captain;
   font-size: 10px;
   background-color: #c3b9a2;
 }
