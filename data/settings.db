@@ -8,5 +8,6 @@
 {"key":"dice-so-nice.formatVersion","value":"\"4.1\"","_id":"gVdYdzUaGJNWcxJl"}
 {"_id":"ma8IO12hfCcQwssV","key":"sandbox.diff","value":"\"18\""}
 {"key":"core.time","value":"0","_id":"pn6SKiY8I2vKdBPf"}
+{"key":"sandbox.customStyle","value":"\"worlds\\\\impulso-sandbox\\\\styles/custom_style.css\"","_id":"vJMDJjduEHvjkTkA"}
 {"_id":"wtnSPNxjJzvjEVSM","key":"core.sheetClasses","value":"{\"JournalEntry\":{\"base\":\"core.JournalSheet\"}}"}
 {"key":"sandbox.showADV","value":"false","_id":"z2eIxvT8ggiM1KfD"}
