@@ -26,9 +26,8 @@
   "download": "https://codeload.github.com/Luvero-1/impulso-sandbox/zip/main",
   "protected": false,
   "background": "worlds/impulso-sandbox/Portada.jpg",
-  "coreVersion": "9.249",
-  "nextSession": null,
+  "coreVersion": "9.255",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.12.2"
+  "systemVersion": "0.12.3"
 }
