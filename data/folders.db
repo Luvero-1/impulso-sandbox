@@ -1,6 +1,7 @@
 {"_id":"02szTQ1gOnAZkoVX","name":"3 3","type":"Item","parent":"fJTq0onW0hsHot4o","sorting":"a","sort":-100000,"color":null,"flags":{}}
 {"_id":"2LfUd9uD0soQTpFq","name":"2 6","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":-550000,"color":null,"flags":{}}
 {"_id":"6UtbKWs4YWlERBM3","name":"4 2","type":"Item","parent":"EoP8p7hZLKstUoaA","sorting":"a","sort":0,"color":null,"flags":{}}
+{"_id":"78tHBaUFEvZdTAVN","name":"Paneles","type":"Item","parent":"MiYj8iXRlAdkxYxa","sorting":"a","sort":-200000,"color":null,"flags":{}}
 {"_id":"BQZ2b8V7FufgXLrO","name":"3 2","type":"Item","parent":"fJTq0onW0hsHot4o","sorting":"a","sort":0,"color":null,"flags":{}}
 {"_id":"CyZuAMAymZV3TChk","name":"2 4","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":-350000,"color":null,"flags":{}}
 {"_id":"EoP8p7hZLKstUoaA","name":"4","type":"Item","parent":"O7HyIQQLMREosOtu","sorting":"a","sort":600000,"color":null,"flags":{}}
@@ -10,11 +11,14 @@
 {"name":"Escenas de juego","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"JcETMIGiJ9mqLDs7"}
 {"_id":"KQOgCC5qahA8pYbE","name":"2 2","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":-150000,"color":null,"flags":{}}
 {"_id":"KoeISxPYd008rCTT","name":"4 3","type":"Item","parent":"EoP8p7hZLKstUoaA","sorting":"a","sort":50000,"color":null,"flags":{}}
+{"_id":"MiYj8iXRlAdkxYxa","name":"4 -Supers [NO TOCAR]","type":"Item","parent":null,"sorting":"a","sort":250000,"color":"","flags":{}}
 {"_id":"O7HyIQQLMREosOtu","name":"3 - Propiedades [NO TOCAR]","type":"Item","parent":null,"sorting":"a","sort":150000,"color":null,"flags":{}}
 {"_id":"P1bvx9Hdi67n7sGP","name":"2","type":"Item","parent":"O7HyIQQLMREosOtu","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"PS4pKjewjXgyxjvy","name":"Pestañas","type":"Item","parent":"MiYj8iXRlAdkxYxa","sorting":"a","sort":-500000,"color":null,"flags":{}}
 {"_id":"aAAaDluoiuNboV6W","name":"2 1","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":-50000,"color":null,"flags":{}}
 {"_id":"fJTq0onW0hsHot4o","name":"3","type":"Item","parent":"O7HyIQQLMREosOtu","sorting":"a","sort":800000,"color":null,"flags":{}}
 {"name":"Reservas-Amenaza","type":"Item","parent":"xdB6GYpCO1PTtwao","sorting":"a","sort":0,"color":null,"flags":{},"_id":"h1un67euL0ZLhLKa"}
+{"_id":"iAiSjyTyBCyikMO9","name":"Propiedades","type":"Item","parent":"MiYj8iXRlAdkxYxa","sorting":"a","sort":-400000,"color":null,"flags":{}}
 {"_id":"jS7uIT8Qnr0f7kXq","name":"2 3","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":-250000,"color":null,"flags":{}}
 {"_id":"ldUzzGU6jWN2LdCc","name":"2 5","type":"Item","parent":"P1bvx9Hdi67n7sGP","sorting":"a","sort":-450000,"color":null,"flags":{}}
 {"name":"5","type":"Item","parent":"O7HyIQQLMREosOtu","sorting":"a","sort":0,"color":null,"flags":{},"_id":"n2hOtgrlKbRvpuQb"}
