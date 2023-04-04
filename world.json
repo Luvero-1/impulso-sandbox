@@ -1,33 +1,25 @@
 {
-  "name": "impulso-sandbox",
   "title": "Impulso 1ºed para Sandbox",
-  "description": "",
-  "author": "Luvero",
   "authors": [
     {
       "name": "Luvero",
-      "discord": "Luvero#5745"
+      "discord": "Luvero#5745",
+      "flags": {}
     }
   ],
   "url": "https://github.com/Luvero-1/impulso-sandbox",
-  "flags": {},
   "version": "5.0.0",
-  "minimumCoreVersion": "0.9.0",
-  "compatibleCoreVersion": "0.9.249",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
-  "packs": [],
   "system": "sandbox",
-  "dependencies": [],
-  "socket": false,
   "manifest": "https://raw.githubusercontent.com/Luvero-1/impulso-sandbox/main/world.json",
   "download": "https://codeload.github.com/Luvero-1/impulso-sandbox/zip/main",
-  "protected": false,
   "background": "worlds/impulso-sandbox/Portada.jpg",
-  "coreVersion": "9.269",
+  "coreVersion": "10.291",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.13.4"
+  "systemVersion": "0.14.0(RC7)",
+  "id": "impulso-sandbox",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291"
+  }
 }
